@@ -1,0 +1,7 @@
+com\exchange\Model\CreateFxRateCmd.class
+com\exchange\App.class
+com\exchange\Model\FxRate.class
+com\exchange\Service\CsvReader.class
+com\exchange\Controller\FxRateController.class
+com\exchange\Repository\FxRateRepository.class
+com\exchange\Service\FxRateService.class
