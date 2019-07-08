@@ -1,7 +1,6 @@
 package com.exchange.Service;
 
 import com.exchange.Model.CreateFxRateCmd;
-import com.exchange.Model.FxRate;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
